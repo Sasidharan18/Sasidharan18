@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Sasidharan K
+### Hi there 👋, I'm Sasidharan K
 #### SAP Techno Functional - Full Stack Developer – 7 yrs (ABAP, OData, UI5, Fiori, RAP)
 ![SAP Techno Functional - Full Stack Developer – 7 yrs (ABAP, OData, UI5, Fiori, RAP)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm a Developer at SAP Labs India focusing on full-stack Fiori SAPUI5 apps
+I'm a Developer at SAP Labs India focusing on full-stack Development ( Fiori, SAPUI5 and ABAP )
 
 Skills: SAPUI5 / Fiori Elements / ODATA / RAP / Reports / Module Pool / RFC / SDM / BAPI / Enhancement Framework
 
