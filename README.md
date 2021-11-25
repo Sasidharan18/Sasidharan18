@@ -3,7 +3,8 @@
    SAP Techno Functional - Full Stack Developer – 7 yrs (ABAP, OData, UI5, Fiori, RAP)
 
 ## Skills: 
-SAPUI5 / Fiori Elements / ODATA / RAP / Reports / Module Pool / RFC / SDM / BAPI / Enhancement Framework
+*  SAPUI5 / Fiori Elements / ODATA / RAP
+*  Reports / Module Pool / RFC / SDM / BAPI / Enhancement Framework
 
 
 
