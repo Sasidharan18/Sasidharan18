@@ -6,7 +6,7 @@
 *  SAPUI5 / Fiori Elements / ODATA / RAP
 *  Reports / Module Pool / RFC / SDM / BAPI / Enhancement Framework
 
-## Exmaples of Work
+## Examples of Work
 <img src = "https://github.com/Sasidharan18/Sasidharan18/blob/main/insagent.gif" width = "256"/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sasidharan18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sasidharan-k-3537689a/)  
